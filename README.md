@@ -3,8 +3,8 @@ Repositorio de Predicción de Precios de Vehículos Usados, Este proyecto analiz
 
 Estructura del Proyecto
 
-data/: [Dataset.](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data?select=vehicles.csv)
-notebooks/: [Notebooks de Jupyter.](https://github.com/Miguel-Sanabria/Used_Cars/blob/Used_Cars/7_Predicci%C3%B3n_de_Precios_de_Veh%C3%ADculos_Usados_(Core).ipynb)
+- data/: [Dataset.](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data?select=vehicles.csv)
+- notebooks/: [Notebooks de Jupyter.](https://github.com/Miguel-Sanabria/Used_Cars/blob/Used_Cars/7_Predicci%C3%B3n_de_Precios_de_Veh%C3%ADculos_Usados_(Core).ipynb)
 
 README.md: Este archivo.
 
